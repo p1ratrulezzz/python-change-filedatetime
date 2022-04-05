@@ -7,7 +7,7 @@ from pytz import timezone as pytztimezone
 
 
 # Variables
-directory_path = r"E:\Фото и видео из Яндекс.Диска"
+directory_path = r"C:\MyPhotos"
 
 
 
